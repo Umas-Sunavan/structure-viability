@@ -1,0 +1,49 @@
+// theme color --- hero
+$hero-bg-color: #41516D;
+$peoject-card-list-bg-color: #283040;
+
+
+// global
+%section-global {
+    height:100vh;
+    width: 100%;
+}
+
+#pagerContainer { 
+    height:100vh;
+    width: 100%;
+}
+
+// tempoary attribute
+
+h2 {
+    padding: 0px;
+    margin: 0px;
+}
+
+// section-setting
+
+#section-hero {
+    @extend %section-global;
+    background-color: $hero-bg-color;
+}
+
+#section-f {
+    @extend %section-global;
+    background-color: $peoject-card-list-bg-color;
+}
+
+#section-ai {
+    @extend %section-global;
+    background-color: $peoject-card-list-bg-color;
+}
+
+#section-coe {
+    @extend %section-global;
+    background-color: $peoject-card-list-bg-color;
+}
+
+#section-footer {
+    @extend %section-global;
+    background-color: $peoject-card-list-bg-color;
+}
