@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/structure-viability/static/css/main.dd345297.chunk.css",
-    "main.js": "/structure-viability/static/js/main.46ec194e.chunk.js",
-    "main.js.map": "/structure-viability/static/js/main.46ec194e.chunk.js.map",
-    "runtime-main.js": "/structure-viability/static/js/runtime-main.1c7a37e2.js",
-    "runtime-main.js.map": "/structure-viability/static/js/runtime-main.1c7a37e2.js.map",
-    "static/css/2.0624914a.chunk.css": "/structure-viability/static/css/2.0624914a.chunk.css",
-    "static/js/2.256ebc24.chunk.js": "/structure-viability/static/js/2.256ebc24.chunk.js",
-    "static/js/2.256ebc24.chunk.js.map": "/structure-viability/static/js/2.256ebc24.chunk.js.map",
+    "main.css": "/structure-viability/static/css/main.d76f47f1.chunk.css",
+    "main.js": "/structure-viability/static/js/main.32b0c629.chunk.js",
+    "main.js.map": "/structure-viability/static/js/main.32b0c629.chunk.js.map",
+    "runtime-main.js": "/structure-viability/static/js/runtime-main.6b90e5db.js",
+    "runtime-main.js.map": "/structure-viability/static/js/runtime-main.6b90e5db.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/structure-viability/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.757ebec9.chunk.js": "/structure-viability/static/js/2.757ebec9.chunk.js",
+    "static/js/2.757ebec9.chunk.js.map": "/structure-viability/static/js/2.757ebec9.chunk.js.map",
     "index.html": "/structure-viability/index.html",
-    "precache-manifest.eef724eceb8df487634cd63555877088.js": "/structure-viability/precache-manifest.eef724eceb8df487634cd63555877088.js",
+    "precache-manifest.8783f06a5bd1318260317c25c3228138.js": "/structure-viability/precache-manifest.8783f06a5bd1318260317c25c3228138.js",
     "service-worker.js": "/structure-viability/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/structure-viability/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.dd345297.chunk.css.map": "/structure-viability/static/css/main.dd345297.chunk.css.map"
-  }
+    "static/css/2.b0bb7f2c.chunk.css.map": "/structure-viability/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.d76f47f1.chunk.css.map": "/structure-viability/static/css/main.d76f47f1.chunk.css.map",
+    "static/js/2.757ebec9.chunk.js.LICENSE": "/structure-viability/static/js/2.757ebec9.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b90e5db.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.757ebec9.chunk.js",
+    "static/css/main.d76f47f1.chunk.css",
+    "static/js/main.32b0c629.chunk.js"
+  ]
 }
